@@ -35,6 +35,14 @@ This is a list of known schools that teach how to use ArduPilot (i.e. operation 
      - Flight Control Systems (systems engineering: discussion of robotic flight control and payload integration, MavLink UDP), Lab: Ardupilot test and integration into new airframes; advanced payload integration
      - Operations in the National Airspace System (real-world application of prior courses; data management/processing/analysis, geotagging, etc), Lab: use of Ardupilot vehicles used in prior courses to pursue data collection projects that benefit the community
   - **Apply** through the web `here <http://www.letu.edu/_Academics/Aero-Science/degrees/Remotely_Piloted_Aircraft_Systems/index.html>`__
+  
+`VALTO Soluciones Aereas <http://www.valto.co/>`__
+-----------------------------------------------------------------------------------------------------------
+
+  - **Location:** Bogota, Colombia.
+  - **Languages:** Spanish, English.
+  - **Description:** Our objective is to professionalize the use of Unmmaned Aerial Systems in worldwide operations with Certified training from Airplane Commercial Pilots with ten years of aeronautical experience, four of them with UAS.
+  - **Contact:** `valto.co <http://www.valto.co/>`__
 
 .. note::
 
